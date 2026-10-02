@@ -1,8 +1,8 @@
 class Gip < Formula
-  desc "AI駆動開発のための意図のサイドカー (Marker comment extractor)"
+  desc "マーカーコメント処理プロセッサ"
   homepage "https://github.com/gumi278/git-intent-picker"
-  url "https://github.com/gumi278/git-intent-picker/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "839eae636ea0c65b17039b9afb256ede9c74cc0b70949c9a96cb3df361e9c784"
+  url "https://github.com/gumi278/git-intent-picker/archive/refs/tags/v1.0.1.tar.gz"
+  sha256 "37b798f75190cc25bdc1c4e423a7f8b373c2a246dcf41965ba798a04128be3af"
   license "MIT"
 
   # 依存関係: ghコマンドがない場合は自動でインストールしてくれます
