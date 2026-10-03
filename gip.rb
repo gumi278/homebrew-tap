@@ -1,8 +1,8 @@
 class Gip < Formula
   desc "マーカーコメント処理プロセッサ"
   homepage "https://github.com/gumi278/git-intent-picker"
-  url "https://github.com/gumi278/git-intent-picker/archive/refs/tags/v1.0.2.tar.gz"
-  sha256 "561e26bd0662ab5843de64931deb40bd9e80d677b318cdc082c0b66332008e96"
+  url "https://github.com/gumi278/git-intent-picker/archive/refs/tags/v1.0.3.tar.gz"
+  sha256 "d2cc3f115fcfda3655ac945778fa79dca2a01a4de37a77a58df7ddd6aadae1d8"
   license "MIT"
 
   # 依存関係: ghコマンドがない場合は自動でインストールしてくれます
